@@ -34,7 +34,7 @@ function generateRandomPassword(length) {
   if (number == true){
     allCharacters = allCharacters + numbers;
   }
-
+  
   if (Specials == true){
     allCharacters = allCharacters + Special;
   }
